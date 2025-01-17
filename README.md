@@ -23,4 +23,4 @@ When the game starts, a Sudoku puzzle will be displayed. Click on a cell to sele
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## 🔍 Simple Sudoku with Random Library
-Project Link: https://github.com/omerfarukyuce/Sudoku/tree/main
+Project Link: [Sudoku](https://github.com/omerfarukyuce/Sudoku/tree/main)
